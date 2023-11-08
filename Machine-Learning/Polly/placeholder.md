@@ -1,0 +1,2 @@
+- Turn text to speech 
+- Create applications that can talk 

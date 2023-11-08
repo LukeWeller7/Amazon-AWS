@@ -1,0 +1,3 @@
+- Find out which resources are shared externally
+- Zone of Trust 
+- Access outside the ZoT will be findings

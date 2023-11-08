@@ -1,0 +1,2 @@
+- Natural Language Processing - NLP
+- Comprehend text for meanings

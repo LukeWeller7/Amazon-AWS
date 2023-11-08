@@ -1,0 +1,5 @@
+- auditing and recording compliance of your AWS resources
+- record configurations and changes over time
+- Stored in S3
+- Alerts with SNS
+- $$

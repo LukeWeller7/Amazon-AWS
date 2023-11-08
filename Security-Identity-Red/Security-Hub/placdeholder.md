@@ -1,0 +1,4 @@
+- Central security tool, across several AWS accounts and automate security checks
+- Automated checks go to Security Hub Findings
+- Investigate: Detective
+- Generates: EventBridge

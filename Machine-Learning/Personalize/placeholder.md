@@ -1,0 +1,3 @@
+- build apps with real-time personalised recommendation
+- recommendations to customers
+- Used by Amazon.com

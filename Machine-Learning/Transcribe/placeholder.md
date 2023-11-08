@@ -1,0 +1,4 @@
+- Convert speech to text
+- deep learning process called automatic speech recognition (ASR)
+- Auto remove Personally Identifiable Information (PII) using Redaction
+- Supports Automatic Language Identification for multi-lingual audio

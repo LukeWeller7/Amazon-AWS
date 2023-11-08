@@ -1,0 +1,2 @@
+- Find objects, people, text, scenes in images and videos using ML
+- Facial analysis and facial search

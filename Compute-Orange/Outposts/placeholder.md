@@ -1,0 +1,4 @@
+- Hybrid Cloud
+- AWS Outposts are "server racks" where AWS will setup and manage the "Outposts Racks which is an extension of AWS services
+- Better migration from on-prem to cloud
+- 

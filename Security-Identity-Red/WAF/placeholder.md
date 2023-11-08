@@ -1,0 +1,4 @@
+- Layer 7 is HTTP
+- Application Load Balancer, API Gateway, CloudFront
+- geo-match (block countries)
+- 

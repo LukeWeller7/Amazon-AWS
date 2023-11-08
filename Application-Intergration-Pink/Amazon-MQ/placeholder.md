@@ -1,0 +1,2 @@
+- When migrating to cloud, re use on prem protocols instead od SNS SQS
+- Amazon MQ is a managed message broker service forRabbitMQ, Active Mq

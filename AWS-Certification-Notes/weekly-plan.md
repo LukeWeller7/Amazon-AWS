@@ -18,15 +18,15 @@
 - Wednesday 8th November
   - Morning
     - Section 11 (1 hr 2 mins) **-Completed-**
-    - Section 12 (48 mins)
+    - Section 12 (48 mins) **-Completed-**
   - Afternoon
-    - Section 13 (18 mins)
-    - Section 14 (40 mins)
-    - Section 15 (33 mins)
+    - Section 13 (18 mins) **-Completed-**
+    - Section 14 (40 mins) **-Completed-**
+    - Section 15 (33 mins) **-Completed-**
 - Thursday 9th November
   - Morning
-    - Section 16 (55 mins)
-    - Section 17 (20 mins)
+    - Section 16 (55 mins) **-Completed-**
+    - Section 17 (20 mins) **-Completed-**
   - Afternoon
     - Section 18 (1 hr 18 mins)
     - Section 19 (9 mins)
@@ -45,4 +45,6 @@
 - Monday
   - Completed sections 1 through to 6 on the Ultimate AWS Certified Cloud Practitioner Course on Udemy as well as making notes on each of the AWS services which will be added to my GitHub. As well finishing off my notes from K8 work last Friday.
 - Tuesday
-  - Completed sections 7 through to 11 on the Ultimate AWS Certified Cloud Practitioner Course on Udemy with note taking for each AWS service. I have also spent some time reorganising my folder structure on my local repo to account for all the services.
+  - Continued the AWS course, completing sections 7 through to 11, with note-taking for each AWS service. I have also spent some time reorganising my folder structure on my local repo to account for all the services.
+- Wednesday
+  - Continued the AWS course, completing sections 12 through to 17, making notes on each of the services and creating a GitHub repository for all my AWS work. Re-completed section 11 quiz with topics I struggled on.

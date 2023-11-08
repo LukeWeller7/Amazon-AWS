@@ -1,0 +1,7 @@
+- AWS provisons encryption hardware, we manage keys
+- tamper resistance
+- Customer Mater Keys (CMK)
+  - Customer Managed CMK
+  - AWS managed CMK
+  - AWS owned CMK
+  - CloudHSM Keys (custom keystore)

@@ -1,0 +1,9 @@
+- Intellegence threat 
+- Machine learning algorithms
+- Inout data
+  - Cloud Trail
+  - VPC Flow Logs
+  - DNS Log
+  - Optional Features
+- Set up event bridge rules
+- Can protect against Cryptocurrency attacks

@@ -1,0 +1,2 @@
+- language translation
+- localise content for interntional use

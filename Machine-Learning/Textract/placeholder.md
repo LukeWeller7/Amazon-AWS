@@ -1,0 +1,1 @@
+- extract text, handwriting, and data scanned from documents
