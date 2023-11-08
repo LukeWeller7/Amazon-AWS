@@ -1,0 +1,2 @@
+- route users to clostest deployment with lowest latency
+- Great for DR statergies

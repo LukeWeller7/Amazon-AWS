@@ -1,0 +1,2 @@
+- Replicate parts of applications to AWS Edge Locations for decreased latency
+- Cache common requests - user experience and latency

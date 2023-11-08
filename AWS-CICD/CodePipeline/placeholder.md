@@ -1,0 +1,5 @@
+- Code, Build, test, Provision, Deploy
+- Basis of CICD
+- Orchestrates the pipeline (Jenkins)
+- Examples 
+  - Code commit

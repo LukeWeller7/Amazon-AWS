@@ -1,0 +1,6 @@
+- extract, transform, and load (ETL)
+- perpare and transform data for analytics
+- serverless
+- Extract from multiple db/s3 and loads to reshoft after transform
+- Glue data catalog: catalog of datasets
+- Used by athena, redshift emr

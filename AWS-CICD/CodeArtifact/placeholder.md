@@ -1,0 +1,3 @@
+- artifact management is a secure, scalable management 
+- Devs and CodeBuild can retrieve dependencies 
+- Place to store code

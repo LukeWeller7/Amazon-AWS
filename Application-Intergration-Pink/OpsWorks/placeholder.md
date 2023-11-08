@@ -1,0 +1,2 @@
+- Chef and Puppet help you perform server config auto or repetitive actions
+- Only provision standard AWS resources

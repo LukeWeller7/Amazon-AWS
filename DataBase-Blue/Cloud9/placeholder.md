@@ -1,0 +1,4 @@
+- Cloud9 is a cloud IDE (Integrated Development Environment)
+- Running, writing and debugging code
+- Use on a web browser
+- collaboration throuh pair programming

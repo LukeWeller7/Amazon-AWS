@@ -1,0 +1,3 @@
+- Build code i cloud
+- Complies source code run tests and produce packages that are ready to be deployed
+- 

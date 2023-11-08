@@ -1,0 +1,48 @@
+# Week 1 - AWS Certified Cloud Practitioner Course
+- Monday 6th November
+  - Morning
+    - Section 1 (12 mins) **-Completed-**
+    - Section 2 (1 min) **-Completed-**
+    - Section 3 (33 mins) **-Completed-**
+    - Section 4 (57 mins) **-Completed-**
+  - Afternoon
+    - Section 5 (1 hr 25 mins) **-Completed-**
+    - Section 6 (43 mins) **-Completed-**
+- Tuesday 7th November
+  - Morning
+    - Section 7 (39 mins) **-Completed-**
+    - Section 8 (1 hr 7mins) **-Completed-**
+  - Afternoon
+    - Section 9 (49 mins) **-Completed-**
+    - Section 10 (39 mins) **-Completed-**
+- Wednesday 8th November
+  - Morning
+    - Section 11 (1 hr 2 mins) **-Completed-**
+    - Section 12 (48 mins)
+  - Afternoon
+    - Section 13 (18 mins)
+    - Section 14 (40 mins)
+    - Section 15 (33 mins)
+- Thursday 9th November
+  - Morning
+    - Section 16 (55 mins)
+    - Section 17 (20 mins)
+  - Afternoon
+    - Section 18 (1 hr 18 mins)
+    - Section 19 (9 mins)
+    - Section 20 (29 mins)
+- Friday 10th November
+  - Morning
+    - Section 21 ()
+    - Section 22
+    - Section 23
+  - Afternoon 
+    - Prepare for 
+
+# Timecare Notes
+- Weekly
+  - This week I have been focusing on my AWS Certified Cloud Practitioner Course on Udemy, as well as updating notes on my local git repositories
+- Monday
+  - Completed sections 1 through to 6 on the Ultimate AWS Certified Cloud Practitioner Course on Udemy as well as making notes on each of the AWS services which will be added to my GitHub. As well finishing off my notes from K8 work last Friday.
+- Tuesday
+  - Completed sections 7 through to 11 on the Ultimate AWS Certified Cloud Practitioner Course on Udemy with note taking for each AWS service. I have also spent some time reorganising my folder structure on my local repo to account for all the services.

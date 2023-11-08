@@ -1,0 +1,2 @@
+- Client sends request to API Gateway which proxy request to Lambda which can CRUD DynamoDB
+- Serverless and Scalable

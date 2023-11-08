@@ -1,0 +1,1 @@
+- Fast memory used with RDS (RDS similar to HDD as elasticache is RAM)

@@ -1,0 +1,14 @@
+## Load Balancers
+- Application Load Balancer
+  - HTTP/HTTPS/gRPC protocols (Layer 7)
+  - HTTP Routing features
+  - Static DNS (URL)
+- Network Load Balancer
+  - TCP/UDP protocols (Layer 4)
+  - High Performance: millions of requests per second
+  - Static IP through Elastic IP
+- Gateway Load Balancer
+  - GENEVE Protocol IP Packets (Layer 3)
+  - Route traffic to Firewalls that you manage on EC2 Instances
+  - Intrusion detection
+  - 3rd Party Security
