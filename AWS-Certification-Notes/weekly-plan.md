@@ -28,14 +28,14 @@
     - Section 16 (55 mins) **-Completed-**
     - Section 17 (20 mins) **-Completed-**
   - Afternoon
-    - Section 18 (1 hr 18 mins)
-    - Section 19 (9 mins)
-    - Section 20 (29 mins)
+    - Section 18 (1 hr 18 mins) **-Completed-**
+    - Section 19 (9 mins) **-Completed-**
+    - Section 20 (29 mins) **-Completed-**
 - Friday 10th November
   - Morning
-    - Section 21 ()
-    - Section 22
-    - Section 23
+    - Section 21 (52 mins) **-Completed-**
+    - Section 22 (24 mins) **-Completed-**
+    - Section 23 (8 mins)
   - Afternoon 
     - Prepare for 
 
@@ -48,3 +48,13 @@
   - Continued the AWS course, completing sections 7 through to 11, with note-taking for each AWS service. I have also spent some time reorganising my folder structure on my local repo to account for all the services.
 - Wednesday
   - Continued the AWS course, completing sections 12 through to 17, making notes on each of the services and creating a GitHub repository for all my AWS work. Re-completed section 11 quiz with topics I struggled on.
+- Thursday 
+  - Finished Sections 18 to 22 on AWS Course, making notes on each section of the course and pushing to GitHub. Also, re-completing parts of section 16-17, spent time on practicing interview questions as well as preparing to take practice exam tomorrow. 
+
+
+
+# TO-DO
+- Re-work this repo structure
+- Prepare to test exam (Friday Morning)
+- Work on Interview Questions 
+- Prepare for Code Kata

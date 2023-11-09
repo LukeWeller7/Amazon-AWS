@@ -1,0 +1,5 @@
+- DB of objects
+- AWS Managed Microsoft AD (Active Directory)
+- Establish trust with on prem AD
+- AD Connector (Gateway for on prem AD)
+- Simple AD

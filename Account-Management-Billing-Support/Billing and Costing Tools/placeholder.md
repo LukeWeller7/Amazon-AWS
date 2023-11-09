@@ -1,0 +1,3 @@
+- Estimating costs in the cloud
+- Tracking costs
+- Monitoring against costs plan

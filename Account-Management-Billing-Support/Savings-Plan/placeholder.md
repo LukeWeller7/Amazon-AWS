@@ -1,0 +1,7 @@
+- Commit fixed limit per hour for 1 or 3 years
+- EC2 Savings Plan 
+  - Commit to usage of individual instance families in a region
+- Compute Savings Plan
+  - 66%
+  - For all Compute
+- ML Savings 

@@ -1,0 +1,2 @@
+- self-service portal to launch a set of authorized products pre-defined by admins
+- 
